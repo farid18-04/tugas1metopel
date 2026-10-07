@@ -1,0 +1,27 @@
+WEBSITE PUZZLE PENELITIAN FARID WAJIDI — PAKET VERCEL
+
+MENJALANKAN DI LAPTOP
+1. Ekstrak ZIP ini.
+2. Klik dua kali index.html dengan Chrome atau Edge.
+3. Puzzle, gambar, grafik, pencarian dan presentasi bekerja tanpa internet.
+4. Internet diperlukan saat membuka tautan DOI.
+
+MEMASANG DI VERCEL MELALUI GITHUB
+1. Buat repositori GitHub untuk website ini.
+2. Unggah seluruh isi ZIP ke akar repositori: index.html harus langsung terlihat.
+3. Pertahankan folder assets beserta isinya; jangan hanya mengunggah index.html.
+4. Di Vercel, pilih Add New > Project, lalu import repositori tersebut.
+5. Framework Preset: Other. Root Directory: akar repositori.
+6. Tidak perlu perintah build atau instalasi. vercel.json sudah disertakan.
+7. Klik Deploy dan gunakan alamat yang dikembalikan Vercel.
+
+ISI PAKET
+index.html, style.css, app.js, data.js, experience.js, puzzle-image.js,
+assets/puzzle-penelitian.svg, assets/puzzle-penelitian.png, vercel.json.
+Gambar puzzle sudah tertanam langsung di halaman dan tetap tersedia untuk diunduh.
+Tidak memerlukan layanan ChatGPT agar website ini dapat dijalankan.
+
+BATAS PEMERIKSAAN
+Logika interaksi dan aset diperiksa. Gambar PNG telah diperiksa visual.
+Paket ini belum dideploy di akun Vercel Anda; hasil rendering browser menyeluruh belum diuji.
+Isi ilmiah mengikuti naskah final; hipotesis, novelty dan contribution tetap potensial.
